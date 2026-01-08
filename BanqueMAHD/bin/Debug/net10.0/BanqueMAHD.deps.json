@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BanqueMAHD/1.0.0": {
+        "runtime": {
+          "BanqueMAHD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BanqueMAHD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

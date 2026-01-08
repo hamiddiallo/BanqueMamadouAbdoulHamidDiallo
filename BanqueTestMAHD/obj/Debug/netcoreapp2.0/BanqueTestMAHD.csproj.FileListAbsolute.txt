@@ -1,0 +1,17 @@
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.csprojAssemblyReference.cache
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.csproj.CoreCompileInputs.cache
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.AssemblyInfoInputs.cache
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.AssemblyInfo.cs
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueTestMAHD.deps.json
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueTestMAHD.runtimeconfig.json
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueTestMAHD.runtimeconfig.dev.json
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueTestMAHD.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueTestMAHD.pdb
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueMAHD.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/bin/Debug/netcoreapp2.0/BanqueMAHD.pdb
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.csproj.CopyComplete
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.dll
+/Users/hamid/Downloads/DotNet/BanqueTestMAHD/obj/Debug/netcoreapp2.0/BanqueTestMAHD.pdb

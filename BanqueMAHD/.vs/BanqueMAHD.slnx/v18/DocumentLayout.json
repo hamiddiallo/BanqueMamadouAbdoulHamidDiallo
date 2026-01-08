@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clove\\source\\repos\\BanqueMAHD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41485FC3-E0FD-45FD-B232-4A21D6B94ACE}|..\\BanqueTestMAHD\\BanqueTestMAHD.csproj|c:\\users\\clove\\source\\repos\\banquetestmahd\\comptebancairetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE258A1-9AF3-49A8-9740-3C427E8164E1}|BanqueMAHD.csproj|c:\\users\\clove\\source\\repos\\banquemahd\\comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE258A1-9AF3-49A8-9740-3C427E8164E1}|BanqueMAHD.csproj|solutionrelative:comptebancaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CompteBancaireTests.cs",
+              "DocumentMoniker": "C:\\Users\\clove\\source\\repos\\BanqueTestMAHD\\CompteBancaireTests.cs",
+              "RelativeDocumentMoniker": "..\\BanqueTestMAHD\\CompteBancaireTests.cs",
+              "ToolTip": "C:\\Users\\clove\\source\\repos\\BanqueTestMAHD\\CompteBancaireTests.cs",
+              "RelativeToolTip": "..\\BanqueTestMAHD\\CompteBancaireTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:12:06.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompteBancaire.cs",
+              "DocumentMoniker": "C:\\Users\\clove\\source\\repos\\BanqueMAHD\\CompteBancaire.cs",
+              "RelativeDocumentMoniker": "CompteBancaire.cs",
+              "ToolTip": "C:\\Users\\clove\\source\\repos\\BanqueMAHD\\CompteBancaire.cs",
+              "RelativeToolTip": "CompteBancaire.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAqwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T16:10:48.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

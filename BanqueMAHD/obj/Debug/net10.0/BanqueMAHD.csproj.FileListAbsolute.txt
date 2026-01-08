@@ -1,0 +1,11 @@
+C:\Users\clove\source\repos\BanqueMAHD\bin\Debug\net10.0\BanqueMAHD.deps.json
+C:\Users\clove\source\repos\BanqueMAHD\bin\Debug\net10.0\BanqueMAHD.dll
+C:\Users\clove\source\repos\BanqueMAHD\bin\Debug\net10.0\BanqueMAHD.pdb
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.AssemblyInfoInputs.cache
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.AssemblyInfo.cs
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.csproj.CoreCompileInputs.cache
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.dll
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\refint\BanqueMAHD.dll
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\BanqueMAHD.pdb
+C:\Users\clove\source\repos\BanqueMAHD\obj\Debug\net10.0\ref\BanqueMAHD.dll

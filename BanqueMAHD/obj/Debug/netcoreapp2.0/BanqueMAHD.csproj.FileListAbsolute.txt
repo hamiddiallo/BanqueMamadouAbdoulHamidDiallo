@@ -1,0 +1,9 @@
+/Users/hamid/Downloads/DotNet/BanqueMAHD/bin/Debug/netcoreapp2.0/BanqueMAHD.deps.json
+/Users/hamid/Downloads/DotNet/BanqueMAHD/bin/Debug/netcoreapp2.0/BanqueMAHD.dll
+/Users/hamid/Downloads/DotNet/BanqueMAHD/bin/Debug/netcoreapp2.0/BanqueMAHD.pdb
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.csprojAssemblyReference.cache
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.csproj.CoreCompileInputs.cache
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.AssemblyInfoInputs.cache
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.AssemblyInfo.cs
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.dll
+/Users/hamid/Downloads/DotNet/BanqueMAHD/obj/Debug/netcoreapp2.0/BanqueMAHD.pdb
