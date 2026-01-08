@@ -19,13 +19,7 @@ Lors de la réalisation de ce TP, plusieurs ajustements techniques ont été app
 - **Correction de Bug** : Correction de la méthode `Débiter` qui effectuait une addition au lieu d'une soustraction (bug intentionnel du TP).
 - **Finalisation des Tests** : Implémentation complète des tests pour les cas d'exceptions (montant négatif, solde insuffisant, compte null) en utilisant les attributs `[ExpectedException]`.
 
-## Comment exécuter les tests ?
 
-Pour lancer la suite de tests et vérifier le bon fonctionnement du programme, utilisez la commande suivante dans votre terminal :
-
-```bash
-dotnet test BanqueTestMAHD/BanqueTestMAHD.csproj
-```
 
 ### Résultats attendus
 Vous devriez obtenir un résultat confirmant que les **15 tests** passent avec succès :
